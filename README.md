@@ -4,9 +4,6 @@
 </div>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[![Build Status](https://travis-ci.com/rishav394/bloodbank.svg?token=nxairHVBeKGrCQKnMdVR&branch=master)](https://travis-ci.com/rishav394/bloodbank)
-[![HitCount](http://hits.dwyl.com/rishav394/bloodbank.svg)](http://hits.dwyl.com/rishav394/bloodbank)
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 This is a simple Blood Bank Web Application. Uses Node JS and MongoDB primarily.
 
